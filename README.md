@@ -32,13 +32,13 @@ A simple yet powerful CLI tool written in Python to generate **cryptographically
 
 ```bash
 git clone https://github.com/sandeepyadav1122/StrongPass.git
-cd strongpass
+
 ```
 
 ### 2. Run the Script
 
 ```bash
-python3 strongpass.py
+python3 password.py
 ```
 
 > 💡 No third-party libraries required. Works out of the box with Python 3.6+.
